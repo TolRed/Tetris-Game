@@ -7,8 +7,6 @@ MCU       : STM32F407IG 168MHz
 
 Ekran     : 3.2 İnc 240x320 TFT LCD ili9325 Driver
 
-Yazılım   : STM32 TrueStudio , HAL Library
-
 
 youtube video : https://www.youtube.com/watch?v=v0lWx1nf4Ao&t=7s
 
